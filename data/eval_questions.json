@@ -1,0 +1,32 @@
+[
+  {"id": "L1", "category": "local", "question": "Why do users say ChatGPT crashes on startup?"},
+  {"id": "L2", "category": "local", "question": "What do users report about Claude's login issues?"},
+  {"id": "L3", "category": "local", "question": "What complaints exist about Copilot's memory or context feature?"},
+  {"id": "L4", "category": "local", "question": "What do reviews say about Perplexity's PDF or file upload feature?"},
+  {"id": "L5", "category": "local", "question": "What issues do users report with Gemini's voice mode?"},
+  {"id": "L6", "category": "local", "question": "Do users mention battery drain specifically for Claude?"},
+  {"id": "L7", "category": "local", "question": "What do users say about Perplexity's customer support response time?"},
+  {"id": "L8", "category": "local", "question": "Are there reports of ChatGPT losing conversation history?"},
+  {"id": "L9", "category": "local", "question": "What do users say about Copilot's subscription pricing?"},
+  {"id": "L10", "category": "local", "question": "Do any reviews mention Gemini working across multiple devices?"},
+  {"id": "L11", "category": "local", "question": "What specific bug do users report after reinstalling ChatGPT?"},
+  {"id": "L12", "category": "local", "question": "What do users say about ads inside the Claude app?"},
+
+  {"id": "C1", "category": "comparative", "question": "How do complaints about customer support differ between Perplexity and ChatGPT?"},
+  {"id": "C2", "category": "comparative", "question": "Which apps have the most reports of login or authentication problems?"},
+  {"id": "C3", "category": "comparative", "question": "How does battery drain feedback compare between Gemini and Claude?"},
+  {"id": "C4", "category": "comparative", "question": "Which app has more complaints about excessive advertising: ChatGPT or Gemini?"},
+  {"id": "C5", "category": "comparative", "question": "How do subscription/paywall complaints compare between Copilot and Perplexity?"},
+  {"id": "C6", "category": "comparative", "question": "Which apps have reports of crashing on startup, and how do the reports differ?"},
+  {"id": "C7", "category": "comparative", "question": "Compare how users describe update-related bugs across ChatGPT and Claude."},
+  {"id": "C8", "category": "comparative", "question": "Which app's users report the most frustration with inaccurate answers?"},
+
+  {"id": "G1", "category": "global", "question": "What are the most common reasons users cancel subscriptions across all five apps?"},
+  {"id": "G2", "category": "global", "question": "What are the primary systemic product failures across the entire application ecosystem?"},
+  {"id": "G3", "category": "global", "question": "What themes come up most often when users complain about performance across all apps?"},
+  {"id": "G4", "category": "global", "question": "What are the biggest trust or reliability concerns users express across the ecosystem?"},
+  {"id": "G5", "category": "global", "question": "Summarize the overall customer support experience across all five AI apps."},
+  {"id": "G6", "category": "global", "question": "What UI or usability complaints are shared across multiple apps?"},
+  {"id": "G7", "category": "global", "question": "What recurring update-related problems affect the ecosystem as a whole?"},
+  {"id": "G8", "category": "global", "question": "What monetization or pricing complaints are common across the apps?"}
+]

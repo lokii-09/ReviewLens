@@ -1,0 +1,2545 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d1" for="node" attr.name="community" attr.type="long" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Chatgpt">
+      <data key="d0">APP_ROOT</data>
+      <data key="d1">3</data>
+    </node>
+    <node id="Background Mode">
+      <data key="d1">1</data>
+    </node>
+    <node id="Mobile Data">
+      <data key="d1">1</data>
+    </node>
+    <node id="Ad Frequency">
+      <data key="d1">3</data>
+    </node>
+    <node id="Background Activity">
+      <data key="d1">3</data>
+    </node>
+    <node id="Battery Drain">
+      <data key="d1">3</data>
+    </node>
+    <node id="Claude">
+      <data key="d0">APP_ROOT</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Installation">
+      <data key="d1">1</data>
+    </node>
+    <node id="Promised Functionality">
+      <data key="d1">1</data>
+    </node>
+    <node id="Primary Purpose">
+      <data key="d1">4</data>
+    </node>
+    <node id="Copilot">
+      <data key="d0">APP_ROOT</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Productivity Features">
+      <data key="d1">1</data>
+    </node>
+    <node id="New Users">
+      <data key="d1">1</data>
+    </node>
+    <node id="Amusement Functions">
+      <data key="d1">0</data>
+    </node>
+    <node id="Complex Tools">
+      <data key="d1">0</data>
+    </node>
+    <node id="Gemini">
+      <data key="d0">APP_ROOT</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Launch">
+      <data key="d1">4</data>
+    </node>
+    <node id="Bug Report">
+      <data key="d1">3</data>
+    </node>
+    <node id="Bug Submission">
+      <data key="d1">1</data>
+    </node>
+    <node id="Perplexity">
+      <data key="d0">APP_ROOT</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Pdf Option">
+      <data key="d1">2</data>
+    </node>
+    <node id="Ai Option">
+      <data key="d1">2</data>
+    </node>
+    <node id="Internet Option">
+      <data key="d1">2</data>
+    </node>
+    <node id="Photo Option">
+      <data key="d1">2</data>
+    </node>
+    <node id="Video Option">
+      <data key="d1">2</data>
+    </node>
+    <node id="Last Update">
+      <data key="d1">3</data>
+    </node>
+    <node id="Worse Performance">
+      <data key="d1">3</data>
+    </node>
+    <node id="Support Team">
+      <data key="d1">1</data>
+    </node>
+    <node id="Customer Inquiry">
+      <data key="d1">1</data>
+    </node>
+    <node id="Customer Support">
+      <data key="d1">1</data>
+    </node>
+    <node id="Negative Review">
+      <data key="d1">1</data>
+    </node>
+    <node id="Launch Sequence">
+      <data key="d1">4</data>
+    </node>
+    <node id="Startup">
+      <data key="d1">4</data>
+    </node>
+    <node id="One Week">
+      <data key="d1">1</data>
+    </node>
+    <node id="Crashing">
+      <data key="d1">4</data>
+    </node>
+    <node id="Detailed Explanation">
+      <data key="d1">0</data>
+    </node>
+    <node id="Additional Info">
+      <data key="d1">0</data>
+    </node>
+    <node id="Freeze State">
+      <data key="d1">1</data>
+    </node>
+    <node id="File Compilation">
+      <data key="d1">2</data>
+    </node>
+    <node id="Busy Schedules">
+      <data key="d1">2</data>
+    </node>
+    <node id="Image Insertion">
+      <data key="d1">2</data>
+    </node>
+    <node id="File Creation">
+      <data key="d1">2</data>
+    </node>
+    <node id="Ai Engine">
+      <data key="d1">2</data>
+    </node>
+    <node id="Busy Users">
+      <data key="d1">2</data>
+    </node>
+    <node id="Loading Screen">
+      <data key="d1">4</data>
+    </node>
+    <node id="Reinstall">
+      <data key="d1">4</data>
+    </node>
+    <node id="Last Updates">
+      <data key="d1">3</data>
+    </node>
+    <node id="Loading Issue">
+      <data key="d1">3</data>
+    </node>
+    <node id="Rating Change">
+      <data key="d1">3</data>
+    </node>
+    <node id="Fix Deployment">
+      <data key="d1">3</data>
+    </node>
+    <node id="Manual Input">
+      <data key="d1">1</data>
+    </node>
+    <node id="Frustration">
+      <data key="d1">3</data>
+    </node>
+    <node id="Productivity">
+      <data key="d1">0</data>
+    </node>
+    <node id="Mental State Checks">
+      <data key="d1">0</data>
+    </node>
+    <node id="Motivation">
+      <data key="d1">0</data>
+    </node>
+    <node id="Mental Support">
+      <data key="d1">0</data>
+    </node>
+    <node id="Battery Life">
+      <data key="d1">3</data>
+    </node>
+    <node id="Excessive Battery">
+      <data key="d1">1</data>
+    </node>
+    <node id="Accurate Info">
+      <data key="d1">2</data>
+    </node>
+    <node id="Conversation History">
+      <data key="d1">2</data>
+    </node>
+    <node id="User Sessions">
+      <data key="d1">2</data>
+    </node>
+    <node id="Free Version">
+      <data key="d1">2</data>
+    </node>
+    <node id="Voice Conversation">
+      <data key="d1">2</data>
+    </node>
+    <node id="Better Results">
+      <data key="d1">2</data>
+    </node>
+    <node id="Perplexity Team">
+      <data key="d1">2</data>
+    </node>
+    <node id="Positive Feedback">
+      <data key="d1">2</data>
+    </node>
+    <node id="Expected Results">
+      <data key="d1">1</data>
+    </node>
+    <node id="Reviews">
+      <data key="d1">4</data>
+    </node>
+    <node id="Actual Experience">
+      <data key="d1">4</data>
+    </node>
+    <node id="Login Process">
+      <data key="d1">4</data>
+    </node>
+    <node id="Recent Updates">
+      <data key="d1">3</data>
+    </node>
+    <node id="Login Issue">
+      <data key="d1">3</data>
+    </node>
+    <node id="Reinstall Option">
+      <data key="d1">4</data>
+    </node>
+    <node id="Login Credentials">
+      <data key="d1">4</data>
+    </node>
+    <node id="Frequent Sign-In">
+      <data key="d1">0</data>
+    </node>
+    <node id="Repeated Login Prompts">
+      <data key="d1">0</data>
+    </node>
+    <node id="Ten Minutes">
+      <data key="d1">1</data>
+    </node>
+    <node id="Other Tools">
+      <data key="d1">2</data>
+    </node>
+    <node id="Expectations">
+      <data key="d1">2</data>
+    </node>
+    <node id="Chatgpt Interface">
+      <data key="d1">3</data>
+    </node>
+    <node id="Background Data">
+      <data key="d1">3</data>
+    </node>
+    <node id="Mobile Plan">
+      <data key="d1">3</data>
+    </node>
+    <node id="Ad Overload">
+      <data key="d1">4</data>
+    </node>
+    <node id="Claude Interface">
+      <data key="d1">3</data>
+    </node>
+    <node id="Update Cycle">
+      <data key="d1">4</data>
+    </node>
+    <node id="Claude Experience">
+      <data key="d1">4</data>
+    </node>
+    <node id="Paywall">
+      <data key="d1">0</data>
+    </node>
+    <node id="Context Memory">
+      <data key="d1">0</data>
+    </node>
+    <node id="Daily Message Limit">
+      <data key="d1">0</data>
+    </node>
+    <node id="Emotional Support">
+      <data key="d1">0</data>
+    </node>
+    <node id="Continuity">
+      <data key="d1">0</data>
+    </node>
+    <node id="Emotional Distress">
+      <data key="d1">0</data>
+    </node>
+    <node id="Message Limit">
+      <data key="d1">0</data>
+    </node>
+    <node id="Daily">
+      <data key="d1">0</data>
+    </node>
+    <node id="Supportive Version">
+      <data key="d1">0</data>
+    </node>
+    <node id="Payment">
+      <data key="d1">0</data>
+    </node>
+    <node id="Language Support">
+      <data key="d1">2</data>
+    </node>
+    <node id="Translation Needs">
+      <data key="d1">2</data>
+    </node>
+    <node id="Language Struggles">
+      <data key="d1">2</data>
+    </node>
+    <node id="Language Learners">
+      <data key="d1">2</data>
+    </node>
+    <node id="Endless Spinner">
+      <data key="d1">3</data>
+    </node>
+    <node id="Page Load">
+      <data key="d1">3</data>
+    </node>
+    <node id="Bug Fix">
+      <data key="d1">4</data>
+    </node>
+    <node id="Months">
+      <data key="d1">4</data>
+    </node>
+    <node id="Rational Ai">
+      <data key="d1">4</data>
+    </node>
+    <node id="Useful Features">
+      <data key="d1">4</data>
+    </node>
+    <node id="Reviewer">
+      <data key="d1">4</data>
+    </node>
+    <node id="Full Potential">
+      <data key="d1">4</data>
+    </node>
+    <node id="Logo Icon">
+      <data key="d1">0</data>
+    </node>
+    <node id="Current Version">
+      <data key="d1">0</data>
+    </node>
+    <node id="Film Making">
+      <data key="d1">0</data>
+    </node>
+    <node id="Copilot Features">
+      <data key="d1">0</data>
+    </node>
+    <node id="Persian Language">
+      <data key="d1">0</data>
+    </node>
+    <node id="Copilot Settings">
+      <data key="d1">0</data>
+    </node>
+    <node id="Subscription Fee">
+      <data key="d1">0</data>
+    </node>
+    <node id="Copilot Plans">
+      <data key="d1">0</data>
+    </node>
+    <node id="Promised Feature">
+      <data key="d1">4</data>
+    </node>
+    <node id="Good Reviews">
+      <data key="d1">1</data>
+    </node>
+    <node id="Broken Promise">
+      <data key="d1">1</data>
+    </node>
+    <node id="Conectors">
+      <data key="d1">2</data>
+    </node>
+    <node id="Pro Plan">
+      <data key="d1">2</data>
+    </node>
+    <node id="Customer Service">
+      <data key="d1">2</data>
+    </node>
+    <node id="Pro Plan Subscribers">
+      <data key="d1">2</data>
+    </node>
+    <node id="Money">
+      <data key="d1">2</data>
+    </node>
+    <node id="New Features">
+      <data key="d1">2</data>
+    </node>
+    <node id="Release">
+      <data key="d1">2</data>
+    </node>
+    <node id="Working Conectors">
+      <data key="d1">2</data>
+    </node>
+    <node id="Usability">
+      <data key="d1">3</data>
+    </node>
+    <node id="Bug Fixing">
+      <data key="d1">4</data>
+    </node>
+    <node id="Ad Presence">
+      <data key="d1">4</data>
+    </node>
+    <node id="Overall Experience">
+      <data key="d1">4</data>
+    </node>
+    <node id="Free Use">
+      <data key="d1">0</data>
+    </node>
+    <node id="Subscription Model">
+      <data key="d1">0</data>
+    </node>
+    <node id="Monthly Usage">
+      <data key="d1">0</data>
+    </node>
+    <node id="Paid Tier">
+      <data key="d1">0</data>
+    </node>
+    <node id="Ai Assistant">
+      <data key="d1">0</data>
+    </node>
+    <node id="Overall Benefit">
+      <data key="d1">0</data>
+    </node>
+    <node id="Unnecessary Permissions">
+      <data key="d1">1</data>
+    </node>
+    <node id="Background Drain Issue">
+      <data key="d1">1</data>
+    </node>
+    <node id="Phone Space">
+      <data key="d1">2</data>
+    </node>
+    <node id="Ai Features">
+      <data key="d1">2</data>
+    </node>
+    <node id="Gemini Alternative">
+      <data key="d1">2</data>
+    </node>
+    <node id="Extra Features">
+      <data key="d1">2</data>
+    </node>
+    <node id="Rating">
+      <data key="d1">4</data>
+    </node>
+    <node id="Business Owners">
+      <data key="d1">0</data>
+    </node>
+    <node id="Personal Use">
+      <data key="d1">0</data>
+    </node>
+    <node id="Individuals">
+      <data key="d1">0</data>
+    </node>
+    <node id="Question Asking">
+      <data key="d1">0</data>
+    </node>
+    <node id="Free Trial">
+      <data key="d1">2</data>
+    </node>
+    <node id="One Question">
+      <data key="d1">2</data>
+    </node>
+    <node id="Send Button">
+      <data key="d1">2</data>
+    </node>
+    <node id="Second Question">
+      <data key="d1">2</data>
+    </node>
+    <node id="Daily Questions">
+      <data key="d1">2</data>
+    </node>
+    <node id="Ai Assistants">
+      <data key="d1">2</data>
+    </node>
+    <node id="Unlimited Questions">
+      <data key="d1">2</data>
+    </node>
+    <node id="Free Ai Assistants">
+      <data key="d1">2</data>
+    </node>
+    <node id="Phone Devices">
+      <data key="d1">3</data>
+    </node>
+    <node id="Excessive Ads">
+      <data key="d1">3</data>
+    </node>
+    <node id="Review Accuracy">
+      <data key="d1">4</data>
+    </node>
+    <node id="Deep Research">
+      <data key="d1">0</data>
+    </node>
+    <node id="Pattern Recognition">
+      <data key="d1">0</data>
+    </node>
+    <node id="Advanced Linguistics">
+      <data key="d1">0</data>
+    </node>
+    <node id="Facts">
+      <data key="d1">0</data>
+    </node>
+    <node id="Update">
+      <data key="d1">1</data>
+    </node>
+    <node id="User Time">
+      <data key="d1">1</data>
+    </node>
+    <node id="Digital Assistant">
+      <data key="d1">2</data>
+    </node>
+    <node id="Admin Tasks">
+      <data key="d1">2</data>
+    </node>
+    <node id="Mobility">
+      <data key="d1">2</data>
+    </node>
+    <node id="Admin Completion">
+      <data key="d1">2</data>
+    </node>
+    <node id="In-App Ads">
+      <data key="d1">3</data>
+    </node>
+    <node id="Ui Experience">
+      <data key="d1">3</data>
+    </node>
+    <node id="Bug Reporting">
+      <data key="d1">3</data>
+    </node>
+    <node id="In-App Menu">
+      <data key="d1">3</data>
+    </node>
+    <node id="Bug">
+      <data key="d1">4</data>
+    </node>
+    <node id="Battery Power">
+      <data key="d1">1</data>
+    </node>
+    <node id="Permission Requests">
+      <data key="d1">0</data>
+    </node>
+    <node id="Main Functions">
+      <data key="d1">0</data>
+    </node>
+    <node id="Background Process">
+      <data key="d1">0</data>
+    </node>
+    <node id="Exit Confirmation">
+      <data key="d1">0</data>
+    </node>
+    <node id="Manual Method">
+      <data key="d1">1</data>
+    </node>
+    <node id="Ai Video">
+      <data key="d1">2</data>
+    </node>
+    <node id="Paisa">
+      <data key="d1">2</data>
+    </node>
+    <node id="1 Star Rating">
+      <data key="d1">2</data>
+    </node>
+    <node id="Few Seconds">
+      <data key="d1">3</data>
+    </node>
+    <node id="Uninstall">
+      <data key="d1">4</data>
+    </node>
+    <node id="Suggestions">
+      <data key="d1">0</data>
+    </node>
+    <node id="Questions">
+      <data key="d1">0</data>
+    </node>
+    <node id="Topic Help">
+      <data key="d1">0</data>
+    </node>
+    <node id="Bad Review">
+      <data key="d1">1</data>
+    </node>
+    <node id="Bot">
+      <data key="d1">2</data>
+    </node>
+    <node id="Feedback Passing">
+      <data key="d1">2</data>
+    </node>
+    <node id="Support Email">
+      <data key="d1">2</data>
+    </node>
+    <node id="Android App">
+      <data key="d1">2</data>
+    </node>
+    <node id="Support Number">
+      <data key="d1">2</data>
+    </node>
+    <node id="Feedback Box">
+      <data key="d1">2</data>
+    </node>
+    <node id="Content Safeguards">
+      <data key="d1">2</data>
+    </node>
+    <node id="Adult Content">
+      <data key="d1">2</data>
+    </node>
+    <node id="Support Contact">
+      <data key="d1">2</data>
+    </node>
+    <node id="Automated Feedback">
+      <data key="d1">2</data>
+    </node>
+    <node id="Perplexity Bot">
+      <data key="d1">2</data>
+    </node>
+    <node id="Heavy Usage">
+      <data key="d1">3</data>
+    </node>
+    <node id="Half Features">
+      <data key="d1">3</data>
+    </node>
+    <node id="Function Properly">
+      <data key="d1">3</data>
+    </node>
+    <node id="Experience">
+      <data key="d1">4</data>
+    </node>
+    <node id="Native Integration">
+      <data key="d1">0</data>
+    </node>
+    <node id="Assistant">
+      <data key="d1">0</data>
+    </node>
+    <node id="Customer Queries">
+      <data key="d1">1</data>
+    </node>
+    <node id="User Requests">
+      <data key="d1">1</data>
+    </node>
+    <node id="Perplexity Pro">
+      <data key="d1">2</data>
+    </node>
+    <node id="Airtel Broadband">
+      <data key="d1">2</data>
+    </node>
+    <node id="Pro Subscription">
+      <data key="d1">2</data>
+    </node>
+    <node id="Paused">
+      <data key="d1">2</data>
+    </node>
+    <node id="Customer Care">
+      <data key="d1">2</data>
+    </node>
+    <node id="Pro Access Issue">
+      <data key="d1">2</data>
+    </node>
+    <node id="Premium Benefit">
+      <data key="d1">2</data>
+    </node>
+    <node id="Slow Performance">
+      <data key="d1">3</data>
+    </node>
+    <node id="Recover">
+      <data key="d1">4</data>
+    </node>
+    <node id="Accurate Answers">
+      <data key="d1">0</data>
+    </node>
+    <node id="Other Ai">
+      <data key="d1">0</data>
+    </node>
+    <node id="Narrative Support">
+      <data key="d1">0</data>
+    </node>
+    <node id="Exceptional Response">
+      <data key="d1">0</data>
+    </node>
+    <node id="Gemini Features">
+      <data key="d1">1</data>
+    </node>
+    <node id="Multiple Phones">
+      <data key="d1">1</data>
+    </node>
+    <node id="Research Literature">
+      <data key="d1">2</data>
+    </node>
+    <node id="Teacher">
+      <data key="d1">2</data>
+    </node>
+    <node id="Students">
+      <data key="d1">2</data>
+    </node>
+    <node id="Development Team">
+      <data key="d1">2</data>
+    </node>
+    <node id="Login Session">
+      <data key="d1">3</data>
+    </node>
+    <node id="Update Installation">
+      <data key="d1">3</data>
+    </node>
+    <node id="Login Experience">
+      <data key="d1">3</data>
+    </node>
+    <node id="Google">
+      <data key="d1">4</data>
+    </node>
+    <node id="Inaccurate Answers">
+      <data key="d1">0</data>
+    </node>
+    <node id="Random Chance">
+      <data key="d1">0</data>
+    </node>
+    <node id="Personality Mold">
+      <data key="d1">2</data>
+    </node>
+    <node id="User Energy">
+      <data key="d1">2</data>
+    </node>
+    <node id="Onboarding Process">
+      <data key="d1">1</data>
+    </node>
+    <node id="Poor Experience">
+      <data key="d1">3</data>
+    </node>
+    <node id="Wasted Time">
+      <data key="d1">3</data>
+    </node>
+    <node id="Current Rating">
+      <data key="d1">4</data>
+    </node>
+    <node id="Ad Fix">
+      <data key="d1">4</data>
+    </node>
+    <node id="Ai Agents">
+      <data key="d1">0</data>
+    </node>
+    <node id="Context Assumptions">
+      <data key="d1">0</data>
+    </node>
+    <node id="Emotion Framing">
+      <data key="d1">0</data>
+    </node>
+    <node id="User Input">
+      <data key="d1">0</data>
+    </node>
+    <node id="User Boundaries">
+      <data key="d1">0</data>
+    </node>
+    <node id="Perplexity Ai">
+      <data key="d1">2</data>
+    </node>
+    <node id="Historic Data Requests">
+      <data key="d1">2</data>
+    </node>
+    <node id="Gold Xau Data">
+      <data key="d1">2</data>
+    </node>
+    <node id="Grok Ai">
+      <data key="d1">2</data>
+    </node>
+    <node id="Chat Gpt">
+      <data key="d1">2</data>
+    </node>
+    <node id="Inaccurate Results">
+      <data key="d1">2</data>
+    </node>
+    <node id="Correction Feature">
+      <data key="d1">0</data>
+    </node>
+    <node id="Learning Experience">
+      <data key="d1">0</data>
+    </node>
+    <node id="App Functionality">
+      <data key="d1">0</data>
+    </node>
+    <node id="High Rating">
+      <data key="d1">0</data>
+    </node>
+    <node id="Perfect Score">
+      <data key="d1">4</data>
+    </node>
+    <node id="In-App Bug">
+      <data key="d1">1</data>
+    </node>
+    <node id="Vizio Tv Remote">
+      <data key="d1">2</data>
+    </node>
+    <node id="Phone">
+      <data key="d1">2</data>
+    </node>
+    <node id="Vizio Tv">
+      <data key="d1">2</data>
+    </node>
+    <node id="Uninstallation">
+      <data key="d1">3</data>
+    </node>
+    <node id="Latest Update">
+      <data key="d1">4</data>
+    </node>
+    <node id="Memory Feature">
+      <data key="d1">0</data>
+    </node>
+    <node id="Settings">
+      <data key="d1">0</data>
+    </node>
+    <node id="Memory Saved Bubble">
+      <data key="d1">0</data>
+    </node>
+    <node id="Chat Bubble">
+      <data key="d1">0</data>
+    </node>
+    <node id="Ai Response">
+      <data key="d1">0</data>
+    </node>
+    <node id="Got It">
+      <data key="d1">0</data>
+    </node>
+    <node id="New Memory">
+      <data key="d1">0</data>
+    </node>
+    <node id="Microsoft Copilot">
+      <data key="d1">0</data>
+    </node>
+    <node id="Ai Confirmation">
+      <data key="d1">0</data>
+    </node>
+    <node id="Memory Saving">
+      <data key="d1">0</data>
+    </node>
+    <node id="Manual Memory">
+      <data key="d1">0</data>
+    </node>
+    <node id="New Feature">
+      <data key="d1">0</data>
+    </node>
+    <node id="Complexity Handling">
+      <data key="d1">2</data>
+    </node>
+    <node id="Natural Voice">
+      <data key="d1">2</data>
+    </node>
+    <node id="Subscription">
+      <data key="d1">2</data>
+    </node>
+    <node id="Content Loading">
+      <data key="d1">3</data>
+    </node>
+    <node id="Previous Updates">
+      <data key="d1">4</data>
+    </node>
+    <node id="Issues">
+      <data key="d1">4</data>
+    </node>
+    <node id="Update Process">
+      <data key="d1">4</data>
+    </node>
+    <node id="Disappointment">
+      <data key="d1">4</data>
+    </node>
+    <node id="Co-Pilot">
+      <data key="d1">0</data>
+    </node>
+    <node id="Research">
+      <data key="d1">0</data>
+    </node>
+    <node id="Mistakes">
+      <data key="d1">0</data>
+    </node>
+    <node id="Documentation">
+      <data key="d1">0</data>
+    </node>
+    <node id="Back-Up Sources">
+      <data key="d1">0</data>
+    </node>
+    <node id="Too Many Ads">
+      <data key="d1">1</data>
+    </node>
+    <node id="Tiktok Videos">
+      <data key="d1">2</data>
+    </node>
+    <node id="Youtube Videos">
+      <data key="d1">2</data>
+    </node>
+    <node id="Human Speech">
+      <data key="d1">2</data>
+    </node>
+    <node id="Job Functions">
+      <data key="d1">2</data>
+    </node>
+    <node id="Buggy Features">
+      <data key="d1">4</data>
+    </node>
+    <node id="After Reinstall">
+      <data key="d1">3</data>
+    </node>
+    <node id="Daily Tasks">
+      <data key="d1">0</data>
+    </node>
+    <node id="Assistance">
+      <data key="d1">0</data>
+    </node>
+    <node id="Discovery">
+      <data key="d1">0</data>
+    </node>
+    <node id="Late">
+      <data key="d1">0</data>
+    </node>
+    <node id="Low Rating">
+      <data key="d1">4</data>
+    </node>
+    <node id="Go To">
+      <data key="d1">2</data>
+    </node>
+    <node id="Ai Skeptic">
+      <data key="d1">2</data>
+    </node>
+    <node id="Perplexity Fan">
+      <data key="d1">2</data>
+    </node>
+    <node id="Battery">
+      <data key="d1">4</data>
+    </node>
+    <node id="Content Guidelines">
+      <data key="d1">0</data>
+    </node>
+    <node id="Story Creation">
+      <data key="d1">0</data>
+    </node>
+    <node id="Ai Classifier">
+      <data key="d1">0</data>
+    </node>
+    <node id="Innocent Text">
+      <data key="d1">0</data>
+    </node>
+    <node id="Character Age">
+      <data key="d1">0</data>
+    </node>
+    <node id="Love Story">
+      <data key="d1">0</data>
+    </node>
+    <node id="Inappropriate Content">
+      <data key="d1">0</data>
+    </node>
+    <node id="Search Function">
+      <data key="d1">2</data>
+    </node>
+    <node id="Summary Feature">
+      <data key="d1">2</data>
+    </node>
+    <node id="Users">
+      <data key="d1">2</data>
+    </node>
+    <node id="Accurate Results">
+      <data key="d1">2</data>
+    </node>
+    <edge source="Chatgpt" target="Background Mode">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Mobile Data">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Ad Frequency">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Chatgpt">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Background Activity">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Battery Drain">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Last Update">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Worse Performance">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Support Team">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Customer Inquiry">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Customer Support">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Negative Review">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Loading Screen">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Reinstall">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Last Updates">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Loading Issue">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Rating Change">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Fix Deployment">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Promised Functionality">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Expected Results">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Reviews">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Actual Experience">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Chatgpt Interface">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Background Data">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Mobile Plan">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Startup">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Endless Spinner">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Page Load">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Bug Fix">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Months">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Launch">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Usability">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Phone Devices">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Excessive Ads">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Review Accuracy">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="In-App Ads">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Ui Experience">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Bug Reporting">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="In-App Menu">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Battery Life">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Few Seconds">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Automated Feedback">
+      <data key="d2">HAS_FEATURE</data>
+    </edge>
+    <edge source="Chatgpt" target="Perplexity">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Heavy Usage">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Half Features">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Function Properly">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Manual Input">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Slow Performance">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Login Session">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Update Installation">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Login Issue">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Recent Updates">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Login Experience">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Poor Experience">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Wasted Time">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Frustration">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Uninstallation">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Content Loading">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Buggy Features">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="Bug Report">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Chatgpt" target="After Reinstall">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Background Mode" target="Mobile Data">
+      <data key="d2">DRAINS</data>
+    </edge>
+    <edge source="Background Mode" target="Gemini">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Background Mode" target="Battery Power">
+      <data key="d2">CONSUMES</data>
+    </edge>
+    <edge source="Background Mode" target="Copilot">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Background Mode" target="Claude">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Mobile Data" target="Gemini">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Mobile Data" target="Claude">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Ad Frequency" target="Chatgpt Interface">
+      <data key="d2">OVERWHELMS</data>
+    </edge>
+    <edge source="Ad Frequency" target="Claude Interface">
+      <data key="d2">MAKES_UNUSABLE</data>
+    </edge>
+    <edge source="Ad Frequency" target="Claude">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Ad Frequency" target="Usability">
+      <data key="d2">OVERWHELMS</data>
+    </edge>
+    <edge source="Ad Frequency" target="Gemini">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Background Activity" target="Battery Drain">
+      <data key="d2">CAUSES</data>
+    </edge>
+    <edge source="Battery Drain" target="Gemini">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Battery Drain" target="Claude">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Installation">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Promised Functionality">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Primary Purpose">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Claude">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Launch Sequence">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Startup">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="One Week">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Crashing">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Manual Input">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Frustration">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Login Process">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Reinstall">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Recent Updates">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Login Issue">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Reinstall Option">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Login Credentials">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Ad Overload">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Claude Interface">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Update Cycle">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Claude Experience">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Rational Ai">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Useful Features">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Reviewer">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Full Potential">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Usability">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Bug Fixing">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Months">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Ad Presence">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Overall Experience">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Unnecessary Permissions">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Bug Report">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Rating">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Bug Fix">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Loading Screen">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Reviews">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Actual Experience">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Bug">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Uninstall">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Launch">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Experience">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Recover">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Google">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Current Rating">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Ad Fix">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Battery Life">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Latest Update">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Promised Feature">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Last Update">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Previous Updates">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Issues">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Update Process">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Disappointment">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Battery">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Claude" target="Low Rating">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Installation" target="Promised Functionality">
+      <data key="d2">FAILS_TO_DELIVER</data>
+    </edge>
+    <edge source="Installation" target="One Week">
+      <data key="d2">LASTS_ONLY</data>
+    </edge>
+    <edge source="Installation" target="Gemini">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Installation" target="Good Reviews">
+      <data key="d2">FOLLOWS</data>
+    </edge>
+    <edge source="Promised Functionality" target="Expected Results">
+      <data key="d2">FAILS_TO_DELIVER</data>
+    </edge>
+    <edge source="Promised Functionality" target="Gemini">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Productivity Features">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="New Users">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Amusement Functions">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Complex Tools">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Detailed Explanation">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Copilot">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Additional Info">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Productivity">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Mental State Checks">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Motivation">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Mental Support">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Frequent Sign-In">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Repeated Login Prompts">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Gemini">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Paywall">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Context Memory">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Daily Message Limit">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Emotional Support">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Continuity">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Emotional Distress">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Message Limit">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Daily">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Supportive Version">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Payment">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Logo Icon">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Current Version">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Film Making">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Copilot Features">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Persian Language">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Copilot Settings">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Subscription Fee">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Copilot Plans">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Free Use">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Subscription Model">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Monthly Usage">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Paid Tier">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Ai Assistant">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Overall Benefit">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Business Owners">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Personal Use">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Individuals">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Deep Research">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Pattern Recognition">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Advanced Linguistics">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Facts">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Battery Power">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Permission Requests">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Main Functions">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Background Process">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Exit Confirmation">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Suggestions">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Questions">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Topic Help">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Native Integration">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Assistant">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Accurate Answers">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Other Ai">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Narrative Support">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Exceptional Response">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Inaccurate Answers">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Random Chance">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Ai Agents">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Context Assumptions">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Emotion Framing">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="User Input">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="User Boundaries">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Correction Feature">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Learning Experience">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="App Functionality">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="High Rating">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Overall Experience">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Perfect Score">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Memory Feature">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Settings">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Memory Saved Bubble">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Chat Bubble">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Ai Response">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Got It">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="New Memory">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Microsoft Copilot">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Ai Confirmation">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Memory Saving">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Manual Memory">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="New Feature">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Co-Pilot">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Research">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Mistakes">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Documentation">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Back-Up Sources">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Daily Tasks">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Assistance">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Discovery">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Late">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Content Guidelines">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Story Creation">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Ai Classifier">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Innocent Text">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Character Age">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Love Story">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Copilot" target="Inappropriate Content">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Productivity Features" target="New Users">
+      <data key="d2">LACKS_GUIDANCE_FOR</data>
+    </edge>
+    <edge source="New Users" target="Gemini">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="New Users" target="Onboarding Process">
+      <data key="d2">PROCEEDS_SMOOTHLY</data>
+    </edge>
+    <edge source="New Users" target="Perplexity">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Amusement Functions" target="Complex Tools">
+      <data key="d2">REQUIRES_INTUITIVE_USE_OF</data>
+    </edge>
+    <edge source="Gemini" target="Launch">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Gemini">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Bug Report">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Bug Submission">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Freeze State">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Loading Screen">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Battery Life">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Excessive Battery">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Manual Input">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Ten Minutes">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Promised Feature">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Good Reviews">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Broken Promise">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Unnecessary Permissions">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Background Drain Issue">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Update">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Endless Spinner">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="User Time">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Background Data">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Manual Method">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Bad Review">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Support Team">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Customer Queries">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Last Update">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Frustration">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Customer Support">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="User Requests">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Gemini Features">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Multiple Phones">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Reviews">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Actual Experience">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Half Features">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="In-App Bug">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Perplexity">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Natural Voice">
+      <data key="d2">EXCELS_AT</data>
+    </edge>
+    <edge source="Gemini" target="Too Many Ads">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Startup">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Low Rating">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="Bug Fix">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Gemini" target="One Week">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Launch" target="Loading Screen">
+      <data key="d2">HANGS_ON</data>
+    </edge>
+    <edge source="Launch" target="Battery Life">
+      <data key="d2">DRAINS_ON</data>
+    </edge>
+    <edge source="Bug Report" target="Claude Interface">
+      <data key="d2">MISSING_FROM</data>
+    </edge>
+    <edge source="Bug Report" target="In-App Menu">
+      <data key="d2">MISSING_FROM</data>
+    </edge>
+    <edge source="Perplexity" target="Pdf Option">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Perplexity">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Ai Option">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Internet Option">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Photo Option">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Video Option">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="File Compilation">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Busy Schedules">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Image Insertion">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="File Creation">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Ai Engine">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Busy Users">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Accurate Info">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Conversation History">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="User Sessions">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Free Version">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Voice Conversation">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Better Results">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Perplexity Team">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Positive Feedback">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Other Tools">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Expectations">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Language Support">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Translation Needs">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Language Struggles">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Language Learners">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Conectors">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Pro Plan">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Customer Service">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Pro Plan Subscribers">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Money">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="New Features">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Release">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Working Conectors">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Phone Space">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Ai Features">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Gemini Alternative">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Extra Features">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Paywall">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Question Asking">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Free Trial">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="One Question">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Send Button">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Second Question">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Daily Questions">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Ai Assistants">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Unlimited Questions">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Free Ai Assistants">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Digital Assistant">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Admin Tasks">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Mobility">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Admin Completion">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Ai Video">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Paisa">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="1 Star Rating">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Bot">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Feedback Passing">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Support Email">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Android App">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Support Number">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Feedback Box">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Content Safeguards">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Adult Content">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Support Contact">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Automated Feedback">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Perplexity Bot">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Perplexity Pro">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Airtel Broadband">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Pro Subscription">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Paused">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Customer Care">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Pro Access Issue">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Premium Benefit">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Research Literature">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Teacher">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Students">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Development Team">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Personality Mold">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="User Energy">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Onboarding Process">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Perplexity Ai">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Historic Data Requests">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Gold Xau Data">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Grok Ai">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Chat Gpt">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Inaccurate Results">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Vizio Tv Remote">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Phone">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Vizio Tv">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Complexity Handling">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Natural Voice">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Subscription">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Tiktok Videos">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Youtube Videos">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Human Speech">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Job Functions">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Google">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Go To">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Ai Skeptic">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Perplexity Fan">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Search Function">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Summary Feature">
+      <data key="d2">HAS_FEATURE_OR_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Users">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Perplexity" target="Accurate Results">
+      <data key="d2">RELATES_TO_ISSUE</data>
+    </edge>
+    <edge source="Last Update" target="Worse Performance">
+      <data key="d2">CAUSES</data>
+    </edge>
+    <edge source="Last Update" target="Frustration">
+      <data key="d2">CAUSES</data>
+    </edge>
+    <edge source="Last Update" target="Poor Experience">
+      <data key="d2">CAUSES</data>
+    </edge>
+    <edge source="Last Update" target="Wasted Time">
+      <data key="d2">LEADS_TO</data>
+    </edge>
+    <edge source="Last Update" target="Uninstallation">
+      <data key="d2">LEADS_TO</data>
+    </edge>
+    <edge source="Support Team" target="Customer Inquiry">
+      <data key="d2">IGNORES</data>
+    </edge>
+    <edge source="Support Team" target="Customer Queries">
+      <data key="d2">IGNORES</data>
+    </edge>
+    <edge source="Customer Support" target="Negative Review">
+      <data key="d2">LEADS_TO</data>
+    </edge>
+    <edge source="Customer Support" target="User Requests">
+      <data key="d2">FAILS_TO_RESPOND</data>
+    </edge>
+    <edge source="Launch Sequence" target="Startup">
+      <data key="d2">CRASHES_ON</data>
+    </edge>
+    <edge source="Startup" target="Loading Screen">
+      <data key="d2">FREEZES_ON</data>
+    </edge>
+    <edge source="Startup" target="Content Loading">
+      <data key="d2">FAILS_ON</data>
+    </edge>
+    <edge source="File Compilation" target="Busy Schedules">
+      <data key="d2">PERFORMS_WELL_ON</data>
+    </edge>
+    <edge source="Image Insertion" target="File Creation">
+      <data key="d2">WORKS_WITH</data>
+    </edge>
+    <edge source="Ai Engine" target="Busy Users">
+      <data key="d2">SATISFIES</data>
+    </edge>
+    <edge source="Loading Screen" target="Reinstall">
+      <data key="d2">HANGS_ON</data>
+    </edge>
+    <edge source="Loading Screen" target="Endless Spinner">
+      <data key="d2">DISPLAYS</data>
+    </edge>
+    <edge source="Reinstall" target="Login Process">
+      <data key="d2">FAILS_AFTER</data>
+    </edge>
+    <edge source="Reinstall" target="Bug">
+      <data key="d2">FAILS_TO_FIX</data>
+    </edge>
+    <edge source="Reinstall" target="Ad Overload">
+      <data key="d2">FAILS_TO_FIX</data>
+    </edge>
+    <edge source="Reinstall" target="Buggy Features">
+      <data key="d2">DOES_NOT_FIX</data>
+    </edge>
+    <edge source="Last Updates" target="Loading Issue">
+      <data key="d2">FIXES_NOT</data>
+    </edge>
+    <edge source="Rating Change" target="Fix Deployment">
+      <data key="d2">DEPENDS_ON</data>
+    </edge>
+    <edge source="Mental State Checks" target="Motivation">
+      <data key="d2">IMPROVES</data>
+    </edge>
+    <edge source="Battery Life" target="Heavy Usage">
+      <data key="d2">DRAINS_ON</data>
+    </edge>
+    <edge source="Conversation History" target="User Sessions">
+      <data key="d2">IS_SAVED</data>
+    </edge>
+    <edge source="Free Version" target="Voice Conversation">
+      <data key="d2">HAS_LIMITS_ON</data>
+    </edge>
+    <edge source="Voice Conversation" target="Better Results">
+      <data key="d2">GETS</data>
+    </edge>
+    <edge source="Perplexity Team" target="Positive Feedback">
+      <data key="d2">RECEIVES</data>
+    </edge>
+    <edge source="Reviews" target="Actual Experience">
+      <data key="d2">MISREPRESENT</data>
+    </edge>
+    <edge source="Reviews" target="Experience">
+      <data key="d2">MISREPRESENT</data>
+    </edge>
+    <edge source="Actual Experience" target="Review Accuracy">
+      <data key="d2">MISLEADS</data>
+    </edge>
+    <edge source="Recent Updates" target="Login Issue">
+      <data key="d2">FIXES_NOT</data>
+    </edge>
+    <edge source="Recent Updates" target="Ad Overload">
+      <data key="d2">FAIL_TO_FIX</data>
+    </edge>
+    <edge source="Recent Updates" target="Login Experience">
+      <data key="d2">DO_NOT_IMPROVE</data>
+    </edge>
+    <edge source="Login Issue" target="Update Installation">
+      <data key="d2">FAILS_TO_FIX</data>
+    </edge>
+    <edge source="Reinstall Option" target="Login Credentials">
+      <data key="d2">DOES_NOT_RESET</data>
+    </edge>
+    <edge source="Background Data" target="Mobile Plan">
+      <data key="d2">CONSUMES</data>
+    </edge>
+    <edge source="Ad Overload" target="Uninstall">
+      <data key="d2">FOLLOWS_FROM</data>
+    </edge>
+    <edge source="Update Cycle" target="Claude Experience">
+      <data key="d2">WASTES_TIME</data>
+    </edge>
+    <edge source="Paywall" target="Context Memory">
+      <data key="d2">LOCKS</data>
+    </edge>
+    <edge source="Paywall" target="Question Asking">
+      <data key="d2">BLOCKS</data>
+    </edge>
+    <edge source="Daily Message Limit" target="Emotional Support">
+      <data key="d2">RESTRICTS</data>
+    </edge>
+    <edge source="Continuity" target="Emotional Distress">
+      <data key="d2">HURTS</data>
+    </edge>
+    <edge source="Message Limit" target="Daily">
+      <data key="d2">EXPIRES</data>
+    </edge>
+    <edge source="Supportive Version" target="Payment">
+      <data key="d2">REQUIRES</data>
+    </edge>
+    <edge source="Language Support" target="Translation Needs">
+      <data key="d2">HELPS_WITH</data>
+    </edge>
+    <edge source="Endless Spinner" target="Page Load">
+      <data key="d2">APPEARS_DURING</data>
+    </edge>
+    <edge source="Endless Spinner" target="Content Loading">
+      <data key="d2">APPEARS_DURING</data>
+    </edge>
+    <edge source="Bug Fix" target="Months">
+      <data key="d2">DELAYED_FOR</data>
+    </edge>
+    <edge source="Bug Fix" target="Rating">
+      <data key="d2">DEPENDS_ON</data>
+    </edge>
+    <edge source="Bug Fix" target="Low Rating">
+      <data key="d2">CHANGES_ON</data>
+    </edge>
+    <edge source="Months" target="Bug Fixing">
+      <data key="d2">TAKE_LONGER_THAN</data>
+    </edge>
+    <edge source="Months" target="Bug">
+      <data key="d2">PERSISTS_FOR</data>
+    </edge>
+    <edge source="Reviewer" target="Full Potential">
+      <data key="d2">HASNT_EXPLORED</data>
+    </edge>
+    <edge source="Logo Icon" target="Current Version">
+      <data key="d2">MISSING_FROM</data>
+    </edge>
+    <edge source="Film Making" target="Copilot Features">
+      <data key="d2">SHOULD_BE_ADDED_TO</data>
+    </edge>
+    <edge source="Persian Language" target="Copilot Settings">
+      <data key="d2">NEEDS_TO_BE_SUPPORTED_BY</data>
+    </edge>
+    <edge source="Subscription Fee" target="Copilot Plans">
+      <data key="d2">SHOULD_BE_REMOVED_FROM</data>
+    </edge>
+    <edge source="Promised Feature" target="Latest Update">
+      <data key="d2">FAILS_TO_DELIVER</data>
+    </edge>
+    <edge source="Conectors" target="Pro Plan">
+      <data key="d2">FAILS_ON</data>
+    </edge>
+    <edge source="Pro Plan" target="Money">
+      <data key="d2">WASTES</data>
+    </edge>
+    <edge source="Pro Plan" target="Working Conectors">
+      <data key="d2">LACKS</data>
+    </edge>
+    <edge source="Customer Service" target="Pro Plan Subscribers">
+      <data key="d2">IGNORES</data>
+    </edge>
+    <edge source="New Features" target="Release">
+      <data key="d2">CRASH_ON</data>
+    </edge>
+    <edge source="Usability" target="In-App Ads">
+      <data key="d2">PREVENT</data>
+    </edge>
+    <edge source="Ad Presence" target="Overall Experience">
+      <data key="d2">DECREASES</data>
+    </edge>
+    <edge source="Overall Experience" target="Perfect Score">
+      <data key="d2">EARNS</data>
+    </edge>
+    <edge source="Free Use" target="Subscription Model">
+      <data key="d2">LIMITED_BY</data>
+    </edge>
+    <edge source="Monthly Usage" target="Paid Tier">
+      <data key="d2">EXCEEDS_NOT</data>
+    </edge>
+    <edge source="Ai Assistant" target="Overall Benefit">
+      <data key="d2">OFFERS_NO</data>
+    </edge>
+    <edge source="Ai Features" target="Gemini Alternative">
+      <data key="d2">ARE_UNUSED</data>
+    </edge>
+    <edge source="Business Owners" target="Personal Use">
+      <data key="d2">RECOMMENDED_FOR</data>
+    </edge>
+    <edge source="Free Trial" target="One Question">
+      <data key="d2">EXPIRES_AFTER</data>
+    </edge>
+    <edge source="Send Button" target="Second Question">
+      <data key="d2">FAILS_ON</data>
+    </edge>
+    <edge source="Ai Assistants" target="Unlimited Questions">
+      <data key="d2">OFFER</data>
+    </edge>
+    <edge source="Phone Devices" target="Excessive Ads">
+      <data key="d2">DISPLAY</data>
+    </edge>
+    <edge source="Deep Research" target="Pattern Recognition">
+      <data key="d2">HINDERS</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Advanced Linguistics">
+      <data key="d2">BASES_ON</data>
+    </edge>
+    <edge source="Pattern Recognition" target="Facts">
+      <data key="d2">IGNORES</data>
+    </edge>
+    <edge source="Digital Assistant" target="Admin Tasks">
+      <data key="d2">HELPS_WITH</data>
+    </edge>
+    <edge source="Digital Assistant" target="Mobility">
+      <data key="d2">ENHANCES</data>
+    </edge>
+    <edge source="Digital Assistant" target="Admin Completion">
+      <data key="d2">SPEEDS_UP</data>
+    </edge>
+    <edge source="In-App Ads" target="Ui Experience">
+      <data key="d2">OVERWHELM</data>
+    </edge>
+    <edge source="Bug Reporting" target="In-App Menu">
+      <data key="d2">MISSING_FROM</data>
+    </edge>
+    <edge source="Permission Requests" target="Main Functions">
+      <data key="d2">EXCEED</data>
+    </edge>
+    <edge source="Background Process" target="Exit Confirmation">
+      <data key="d2">RUNS_AFTER</data>
+    </edge>
+    <edge source="Ai Video" target="Paisa">
+      <data key="d2">REQUIRES</data>
+    </edge>
+    <edge source="Paisa" target="1 Star Rating">
+      <data key="d2">LEADS_TO</data>
+    </edge>
+    <edge source="Bot" target="Feedback Passing">
+      <data key="d2">NEEDS_TRAINING_ON</data>
+    </edge>
+    <edge source="Bot" target="Support Contact">
+      <data key="d2">SHOULD_PROVIDE</data>
+    </edge>
+    <edge source="Support Email" target="Android App">
+      <data key="d2">IS_MISSING_FROM</data>
+    </edge>
+    <edge source="Android App" target="Support Number">
+      <data key="d2">IS_MISSING_FROM</data>
+    </edge>
+    <edge source="Android App" target="Feedback Box">
+      <data key="d2">IS_MISSING_FROM</data>
+    </edge>
+    <edge source="Content Safeguards" target="Adult Content">
+      <data key="d2">SHOULD_BE_REMOVED_FROM</data>
+    </edge>
+    <edge source="Automated Feedback" target="Perplexity Bot">
+      <data key="d2">LACKS_FEATURE</data>
+    </edge>
+    <edge source="Half Features" target="Function Properly">
+      <data key="d2">FAIL_TO</data>
+    </edge>
+    <edge source="Half Features" target="After Reinstall">
+      <data key="d2">FAIL_TO_WORK</data>
+    </edge>
+    <edge source="Perplexity Pro" target="Airtel Broadband">
+      <data key="d2">NOT_WORKING_WITH</data>
+    </edge>
+    <edge source="Perplexity Pro" target="Premium Benefit">
+      <data key="d2">REQUIRES_ADDITIONAL_PAYMENT</data>
+    </edge>
+    <edge source="Pro Subscription" target="Paused">
+      <data key="d2">SHOWS_AS</data>
+    </edge>
+    <edge source="Customer Care" target="Pro Access Issue">
+      <data key="d2">FAILS_TO_RESOLVE</data>
+    </edge>
+    <edge source="Narrative Support" target="Exceptional Response">
+      <data key="d2">RECEIVES</data>
+    </edge>
+    <edge source="Gemini Features" target="Multiple Phones">
+      <data key="d2">FAIL_ON</data>
+    </edge>
+    <edge source="Login Session" target="Update Installation">
+      <data key="d2">EXPIRES_AFTER</data>
+    </edge>
+    <edge source="Personality Mold" target="User Energy">
+      <data key="d2">MATCHES</data>
+    </edge>
+    <edge source="Current Rating" target="Ad Fix">
+      <data key="d2">DEPENDS_ON</data>
+    </edge>
+    <edge source="Ai Agents" target="Context Assumptions">
+      <data key="d2">OVERSTEP</data>
+    </edge>
+    <edge source="Ai Agents" target="User Boundaries">
+      <data key="d2">VIOLATE</data>
+    </edge>
+    <edge source="Emotion Framing" target="User Input">
+      <data key="d2">TRIGGERS_ON</data>
+    </edge>
+    <edge source="User Input" target="Inappropriate Content">
+      <data key="d2">GETS_FLAGGED_AS</data>
+    </edge>
+    <edge source="Perplexity Ai" target="Historic Data Requests">
+      <data key="d2">FAILS_TO_UNDERSTAND</data>
+    </edge>
+    <edge source="Perplexity Ai" target="Gold Xau Data">
+      <data key="d2">PROVIDES_INACCURATE</data>
+    </edge>
+    <edge source="Perplexity Ai" target="Inaccurate Results">
+      <data key="d2">APOLOGIZES_FOR</data>
+    </edge>
+    <edge source="Perplexity Ai" target="Human Speech">
+      <data key="d2">AVOIDS</data>
+    </edge>
+    <edge source="Gold Xau Data" target="Grok Ai">
+      <data key="d2">PROVIDES_ACCURATE</data>
+    </edge>
+    <edge source="Gold Xau Data" target="Chat Gpt">
+      <data key="d2">PROVIDES_FABRICATED</data>
+    </edge>
+    <edge source="Correction Feature" target="Learning Experience">
+      <data key="d2">ENHANCES</data>
+    </edge>
+    <edge source="App Functionality" target="High Rating">
+      <data key="d2">RECEIVES</data>
+    </edge>
+    <edge source="Memory Feature" target="Settings">
+      <data key="d2">IS_REQUESTED_IN</data>
+    </edge>
+    <edge source="Memory Feature" target="Microsoft Copilot">
+      <data key="d2">IS_NEEDED_BY</data>
+    </edge>
+    <edge source="Settings" target="New Memory">
+      <data key="d2">CAN_BE_ADDED_IN</data>
+    </edge>
+    <edge source="Memory Saved Bubble" target="Chat Bubble">
+      <data key="d2">IS_MISSING_FROM</data>
+    </edge>
+    <edge source="Ai Response" target="Got It">
+      <data key="d2">SAYS</data>
+    </edge>
+    <edge source="Ai Confirmation" target="Memory Saving">
+      <data key="d2">IS_UNRELIABLE_FOR</data>
+    </edge>
+    <edge source="Manual Memory" target="New Feature">
+      <data key="d2">IS_REQUESTED_AS</data>
+    </edge>
+    <edge source="Natural Voice" target="Subscription">
+      <data key="d2">DEPENDS_ON</data>
+    </edge>
+    <edge source="Previous Updates" target="Issues">
+      <data key="d2">FAIL_TO_FIX</data>
+    </edge>
+    <edge source="Update Process" target="Disappointment">
+      <data key="d2">LEADS_TO</data>
+    </edge>
+    <edge source="Co-Pilot" target="Research">
+      <data key="d2">HELPS_WITH</data>
+    </edge>
+    <edge source="Co-Pilot" target="Mistakes">
+      <data key="d2">MAKES</data>
+    </edge>
+    <edge source="Co-Pilot" target="Documentation">
+      <data key="d2">PROVIDES</data>
+    </edge>
+    <edge source="Co-Pilot" target="Back-Up Sources">
+      <data key="d2">REQURES</data>
+    </edge>
+    <edge source="Discovery" target="Late">
+      <data key="d2">HAPPENS</data>
+    </edge>
+    <edge source="Ai Skeptic" target="Perplexity Fan">
+      <data key="d2">CHANGES_TO</data>
+    </edge>
+    <edge source="Content Guidelines" target="Story Creation">
+      <data key="d2">LIMIT</data>
+    </edge>
+    <edge source="Ai Classifier" target="Innocent Text">
+      <data key="d2">MISLABELS</data>
+    </edge>
+    <edge source="Character Age" target="Love Story">
+      <data key="d2">RESTRICTS</data>
+    </edge>
+    <edge source="Search Function" target="Summary Feature">
+      <data key="d2">WORKS_WITH</data>
+    </edge>
+    <edge source="Search Function" target="Users">
+      <data key="d2">IMPRESSES</data>
+    </edge>
+    <edge source="Summary Feature" target="Accurate Results">
+      <data key="d2">PROVIDES</data>
+    </edge>
+  </graph>
+</graphml>
