@@ -9,35 +9,32 @@ By decoupling queries using an LLM-powered **Intent Router**, ReviewLens dynamic
 
 ## 🏛 System Architecture
 
-                          ┌────────────────────────┐
-                          │       User Query       │
-                          └───────────┬────────────┘
-                                      │
-                              [ Intent Router ]
-                       (Pydantic Schema Validation)
-                                      │
-               ┌──────────────────────┴──────────────────────┐
-               ▼                                             ▼
-       [ LOCAL INTENT ]                              [ GLOBAL INTENT ]
-  ┌─────────────────────────┐                   ┌─────────────────────────┐
-  │     Hybrid Retrieval    │                   │  Hierarchical GraphRAG  │
-  │ ─────────────────────── │                   │ ─────────────────────── │
-  │ 1. BM25 (Sparse Index)  │                   │ 1. App-Anchored Graph   │
-  │ 2. ChromaDB (Dense Vec) │                   │    (Entity Disambig.)   │
-  │ 3. Cross-Encoder Rerank │                   │ 2. Louvain Communities  │
-  │    (ms-marco-MiniLM)    │                   │ 3. Cluster Summaries    │
-  └────────────┬────────────┘                   └────────────┬────────────┘
-               │                                             │
-               └──────────────────────┬──────────────────────┘
-                                      ▼
-                         ┌────────────────────────┐
-                         │  Grounding & Synthesis │
-                         │      (Groq LLM)        │
-                         └────────────┬────────────┘
-                                      ▼
-                         ┌────────────────────────┐
-                         │  FastAPI / React Client│
-                         └────────────────────────┘
+```mermaid
+flowchart TD
+    UQ["User Query"] --> IR["Intent Router<br/>(Pydantic Schema Validation)"]
+
+    IR -->|LOCAL INTENT| HR["Hybrid Retrieval"]
+    IR -->|GLOBAL INTENT| GR["Hierarchical GraphRAG"]
+
+    subgraph HR_BOX ["Hybrid Engine (Local)"]
+        direction TB
+        HR --> H1["1. BM25 (Sparse Index)"]
+        HR --> H2["2. ChromaDB (Dense Vectors)"]
+        HR --> H3["3. Cross-Encoder Reranker"]
+    end
+
+    subgraph GR_BOX ["GraphRAG Engine (Global)"]
+        direction TB
+        GR --> G1["1. App-Anchored Graph"]
+        GR --> G2["2. Louvain Communities"]
+        GR --> G3["3. Cluster Summaries"]
+    end
+
+    HR_BOX --> LLM["Grounding & Synthesis<br/>(Groq LLM)"]
+    GR_BOX --> LLM
+
+    LLM --> UI["FastAPI Backend & React Frontend"]
+```
 
 ---
 
